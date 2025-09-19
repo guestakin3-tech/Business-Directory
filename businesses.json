@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Fresh Coffee Shop",
+    "logo": "images/coffee-logo.png",
+    "description": "Best organic coffee in town.",
+    "category": "Food & Drink",
+    "location": "New York",
+    "website": "https://coffeeexample.com",
+    "products": [
+      {"name": "Espresso", "price": "$3"},
+      {"name": "Cappuccino", "price": "$4"}
+    ]
+  },
+  {
+    "id": 2,
+    "name": "TechFix Solutions",
+    "logo": "images/techfix-logo.png",
+    "description": "We repair laptops and phones.",
+    "category": "Electronics",
+    "location": "Los Angeles",
+    "website": "https://techfix.com",
+    "products": [
+      {"name": "Phone Repair", "price": "$50"},
+      {"name": "Laptop Tune-up", "price": "$80"}
+    ]
+  }
+]
